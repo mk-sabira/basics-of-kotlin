@@ -36,20 +36,20 @@
 //}
 
 // second task
-//fun main(){
-//        print("The time when u hit the road: ")
-//        val start = readLine()!!.toDouble()
-//
-//        print("The time when u arrive: ")
-//        val end = readLine()!!.toDouble()
-//
-//        val result : Double
-//        result = (end - start) * 60
-//
-//        println("U have arrived in $result minutes ")
-//
-//
-//}
+fun main(){
+        print("The time when u hit the road: ")
+        val start = readLine()!!.toDouble()
+
+        print("The time when u arrive: ")
+        val end = readLine()!!.toDouble()
+
+        val result : Double
+        result = (end - start) * 60
+
+        println("U have arrived in $result minutes ")
+
+
+}
 
 // third task
 fun main(){
