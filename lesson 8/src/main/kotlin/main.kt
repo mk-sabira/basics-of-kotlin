@@ -40,6 +40,8 @@ fun main(args: Array<String>) {
     //    ArrayList 2
 
     val SecondArrayList = arrayListOf<String>("Script", "C#")
+    SecondArrayList.add("C++")
+    println(SecondArrayList.size)
 
 
 }
