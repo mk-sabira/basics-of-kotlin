@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+//fun main(args: Array<String>) {
 
 //    1- For loop
 //    val numbers = arrayListOf(1, 2, 3, 4)
@@ -54,9 +54,9 @@ fun main(args: Array<String>) {
 
 //    3- do while
 
-    var j = 0
-    do {
-        println(j)
-        j++
-    } while ( j <= 10)
-}
+//    var j = 0
+//    do {
+//        println(j)
+//        j++
+//    } while ( j <= 10)
+//}
