@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55023693-3a23-46e8-8775-fc1264ae26d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson 4/hw/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9/src/main/kotlin/test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson9/out/production/lesson9/META-INF/lesson9.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9/out/production/lesson9/META-INF/lesson9.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/~$links.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
