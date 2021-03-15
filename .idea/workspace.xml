@@ -20,7 +20,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55023693-3a23-46e8-8775-fc1264ae26d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson9/out/production/lesson9/Child.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/out/production/lesson9/ClassesKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/out/production/lesson9/DataClassesKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/out/production/lesson9/FunctionKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/out/production/lesson9/Hw17Kt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/out/production/lesson9/KinderGarden.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/out/production/lesson9/Nursery.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/src/main/kotlin/classes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/src/main/kotlin/dataClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/src/main/kotlin/function.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson9/src/main/kotlin/hw17.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/lesson17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/out/production/lesson17/Hw17Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/out/production/lesson17/Lesson17Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/out/production/lesson17/META-INF/lesson17.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/src/main/kotlin/hw17.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Function/src/main/kotlin/lesson17.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JetBCourse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/6.5.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/6.5.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/6.5.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/6.5.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/6.5.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/6.5.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Guess the age/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Multiple choice/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Multiple choice/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Multiple choice/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Print your name/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Print your name/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/Print your name/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/task/src/bot/SimpleBot.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/Simple Chatty Bot/task/test/ChattyBotTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/course-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/course-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/Simple Chatty Bot/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson9/out/production/lesson9/META-INF/lesson9.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9/out/production/lesson9/META-INF/lesson9.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +113,9 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson9/src/main/kotlin/test.kt" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,9 +148,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1613823561647" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1614624988142">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1615784911202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614624988142" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615784911202" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1615786255167">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615786255167" />
   </component>
 </project>
